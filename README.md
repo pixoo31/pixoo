@@ -1,49 +1,32 @@
 <div align="center">
 
-<img src="YOUR_GIF_BANNER_URL" width="100%" />
-
 # 👑 PIXOO31
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Frontend+Developer;Digital+Creator;React+%26+Next.js+Developer;Building+Premium+Experiences;Welcome+To+My+Profile" />
+### Frontend Developer from Algeria 🇩🇿
 
 <br>
 
-![](https://img.shields.io/badge/Frontend-Developer-FFD700?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Algeria-black?style=for-the-badge\&logo=googlemaps)
-![](https://img.shields.io/badge/Open%20Source-Lover-FFD700?style=for-the-badge\&logo=github)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Next.js+Developer;Digital+Creator" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Profile%20Views-7250-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Commits-103-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repositories-12-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pull%20Requests-7-FFD700?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚜️ About Me
+## 🚀 About Me
 
-```yaml
-Username: PIXOO31
-Role: Frontend Developer
-Country: Algeria 🇩🇿
-Stack: React • Next.js • JavaScript
-Focus: UI/UX & Modern Web Apps
-Goal: Build Premium Digital Experiences
-```
-
----
-
-## 🚀 Tech Arsenal
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode" />
-</p>
-
----
-
-## 🌟 Current Journey
-
-* 🔭 Building modern web applications
-* 🌱 Learning Next.js & TypeScript
-* 💡 Passionate about UI/UX Design
-* ⚡ Creating premium digital experiences
-* 🎯 Open for collaborations
+* 🔭 Currently working on **E-Commerce Platform**
+* 🌱 Learning **Next.js, TypeScript, Tailwind CSS**
+* 👯 Looking to collaborate on **Open Source Projects**
+* 🤝 Looking for help with **Full-Stack SaaS Applications**
+* 💬 Ask me about **React, JavaScript, UI/UX**
+* 📫 Contact: **[mm8260309@gmail.com](mailto:mm8260309@gmail.com)**
 
 ---
 
@@ -51,44 +34,33 @@ Goal: Build Premium Digital Experiences
 
 <p align="center">
 <a href="https://discord.gg/ajUZcwB7V">
-<img src="https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=black"/>
 </a>
 </p>
 
 ---
 
-## 💎 Profile Views
+## ⚒️ Languages & Tools
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pixoo31&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=java,javascript,mongodb,nodejs,vue,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixoo31&layout=compact&theme=transparent" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pixoo31&theme=transparent" />
 </p>
 
 ---
 
 <div align="center">
 
-## ⚡ Luxury Developer
+### ⚡ Welcome To My Profile
 
-### 🖤 Code With Passion
-
-### 👑 Build With Excellence
-
-### 🚀 Powered By PIXOO31
-
-</div>
-
----
-
-<div align="center">
-
-*"Turning ideas into premium digital experiences."*
+🖤 Built with passion by **PIXOO31**
 
 </div>
