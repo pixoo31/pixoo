@@ -1,25 +1,35 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%" />
+<img src="YOUR_GIF_BANNER_URL" width="100%" />
 
-# 👋 Hi, I'm PIXOO31
+# 👑 PIXOO31
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Frontend+Developer;Web+Designer;Digital+Creator;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Frontend+Developer;Digital+Creator;React+%26+Next.js+Developer;Building+Premium+Experiences;Welcome+To+My+Profile" />
+
+<br>
+
+![](https://img.shields.io/badge/Frontend-Developer-FFD700?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Algeria-black?style=for-the-badge\&logo=googlemaps)
+![](https://img.shields.io/badge/Open%20Source-Lover-FFD700?style=for-the-badge\&logo=github)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚜️ About Me
 
-* 🔭 Currently working on Web Projects
-* 🌱 Learning Next.js, TypeScript & Tailwind CSS
-* 💬 Ask me about JavaScript, React & UI/UX
-* 📫 Contact: **[your@email.com](mailto:your@email.com)**
+```yaml
+Username: PIXOO31
+Role: Frontend Developer
+Country: Algeria 🇩🇿
+Stack: React • Next.js • JavaScript
+Focus: UI/UX & Modern Web Apps
+Goal: Build Premium Digital Experiences
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode" />
@@ -27,40 +37,58 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Current Journey
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pixoo31&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pixoo31&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixoo31&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pixoo31&theme=tokyonight&no-frame=true&row=1" />
-</p>
+* 🔭 Building modern web applications
+* 🌱 Learning Next.js & TypeScript
+* 💡 Passionate about UI/UX Design
+* ⚡ Creating premium digital experiences
+* 🎯 Open for collaborations
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://discord.gg/YOUR_INVITE">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.gg/ajUZcwB7V">
+<img src="https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=000000"/>
 </a>
 </p>
 
 ---
 
-### ⚡ Welcome to my profile
+## 💎 Profile Views
 
-### 🖤 Built with passion by PIXOO31
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pixoo31&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Luxury Developer
+
+### 🖤 Code With Passion
+
+### 👑 Build With Excellence
+
+### 🚀 Powered By PIXOO31
+
+</div>
+
+---
+
+<div align="center">
+
+*"Turning ideas into premium digital experiences."*
+
+</div>
