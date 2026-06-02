@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%" />
 
 # 👋 Hi, I'm PIXOO31
 
