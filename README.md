@@ -28,25 +28,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pixoo31&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pixoo31&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixoo31&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pixoo31&theme=tokyonight&no-frame=true&row=1" />
-</p>
+
 
 ---
 
